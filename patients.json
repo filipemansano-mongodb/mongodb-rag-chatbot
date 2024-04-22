@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Paciente queixa-se de dor de cabeça persistente e tontura há dois dias. Não há febre, mas tem dificuldade para dormir.",
+        "date": "12/04/2024 10:15:00",
+        "patient_name": "Marcia Silva",
+        "patient_age": 28,
+        "sedentary": "Não",
+        "symptoms": "Dor de cabeça, tontura, insônia",
+        "medicine_prescriptions": "Paracetamol 500mg, Dramin"
+    },
+    {
+        "description": "Paciente relata alergia respiratória agravada, com espirros frequentes e coriza. A situação piora à noite.",
+        "date": "12/04/2024 08:30:00",
+        "patient_name": "João Pedro Alcantara",
+        "patient_age": 45,
+        "sedentary": "Sim",
+        "symptoms": "Espirros, coriza, coceira nos olhos",
+        "medicine_prescriptions": "Loratadina, Nasonex"
+    },
+    {
+        "description": "Paciente apresenta sinais de ansiedade elevada, com relatos de palpitações e insônia nos últimos três dias.",
+        "date": "12/04/2024 16:00:00",
+        "patient_name": "Clara Gomes",
+        "patient_age": 34,
+        "sedentary": "Não",
+        "symptoms": "Palpitações, insônia, ansiedade",
+        "medicine_prescriptions": "Diazepam 5mg, Sertralina 50mg"
+    },
+    {
+        "description": "Paciente com histórico de diabetes tipo 2 reporta aumento de sede e urinação frequente, mesmo mantendo dieta.",
+        "date": "12/04/2024 14:20:00",
+        "patient_name": "Roberto Nunes",
+        "patient_age": 58,
+        "sedentary": "Sim",
+        "symptoms": "Sede excessiva, urinação frequente",
+        "medicine_prescriptions": "Metformina 850mg"
+    },
+    {
+        "description": "Paciente relata dores no corpo, febre e náuseas com início na semana passada, já tomou medicamentos em casa, mas não melhorou.",
+        "date": "12/04/2024 15:43:00",
+        "patient_name": "Filipe Mansano",
+        "patient_age": 31,
+        "sedentary": "Sim",
+        "symptoms": "Dores no corpo, náuseas, febre",
+        "medicine_prescriptions": "Vonal, dipirona, Dorflex"
+    },
+    {
+        "description": "Retorno para avaliação de tratamento. Paciente relata melhora das náuseas, mas persistência de dores no corpo e febre leve.",
+        "date": "19/04/2024 15:00:00",
+        "patient_name": "Filipe Mansano",
+        "patient_age": 31,
+        "sedentary": "Sim",
+        "symptoms": "Dores no corpo, febre leve",
+        "medicine_prescriptions": "Dipirona 500mg, repouso, aumento de líquidos"
+    },
+    {
+        "description": "Consulta de seguimento após uma semana. Paciente sem febre, mas relata fadiga e dores musculares ocasionais.",
+        "date": "26/04/2024 15:30:00",
+        "patient_name": "Filipe Mansano",
+        "patient_age": 31,
+        "sedentary": "Sim",
+        "symptoms": "Fadiga, dores musculares",
+        "medicine_prescriptions": "Dorflex, recomendação para fisioterapia"
+    },
+    {
+        "description": "Revisão mensal após episódio viral. Paciente se sente recuperado, sem relato de sintomas anteriores.",
+        "date": "12/05/2024 16:00:00",
+        "patient_name": "Filipe Mansano",
+        "patient_age": 31,
+        "sedentary": "Sim",
+        "symptoms": "Sem sintomas",
+        "medicine_prescriptions": "Sem prescrições no momento"
+    }
+]
